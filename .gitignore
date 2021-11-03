@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Personal Files
+Certificate_C1
+
 # Large Files
 u-net-release
 
